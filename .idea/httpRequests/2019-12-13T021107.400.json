@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-13T13:11:07.620+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "User ID must be larger than 0!",
+  "path": "/greeting"
+}

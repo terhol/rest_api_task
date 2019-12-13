@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-13T13:35:53.518+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "This case is not implemented yet!",
+  "path": "/greeting"
+}
