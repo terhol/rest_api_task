@@ -1,4 +1,4 @@
-package se.terhol.telenorapi.Controller;
+package se.terhol.telenorapi.controller;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.http.HttpResponse;

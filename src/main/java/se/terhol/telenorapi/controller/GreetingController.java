@@ -1,4 +1,4 @@
-package se.terhol.telenorapi.Controller;
+package se.terhol.telenorapi.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.RequestMapping;

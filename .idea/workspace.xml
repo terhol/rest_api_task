@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1f49a1-5baf-413c-a68c-28ca2ee85f06" name="Default Changelist" comment="" />
+    <list default="true" id="ee1f49a1-5baf-413c-a68c-28ca2ee85f06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/controller/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/StringToAccountConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/StringToAccountConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/StringToBusinessTypeConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/StringToBusinessTypeConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/Controller/GreetingControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/controller/GreetingControllerTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -17,7 +24,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Controller/GreetingController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/controller/GreetingController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-669">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
@@ -38,10 +45,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/Controller/GreetingControllerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/controller/GreetingControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="255">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,7 +66,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/StringToAccountConverter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/StringToAccountConverter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -68,7 +78,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/StringToBusinessTypeConverter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/StringToBusinessTypeConverter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
@@ -80,7 +90,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/WebConfig.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/WebConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
@@ -129,6 +139,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -156,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/model/Greeting.java" />
         <option value="$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/Controller/GreetingControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Controller/GreetingController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/controller/GreetingControllerTest.java" />
       </list>
     </option>
   </component>
@@ -187,6 +201,7 @@
     <option name="width" value="1260" />
     <option name="height" value="642" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -200,6 +215,124 @@
               <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
               <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="terhol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="terhol" type="462c0819:PsiDirectoryNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="terhol" type="462c0819:PsiDirectoryNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="terhol" type="462c0819:PsiDirectoryNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="terhol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="terhol" type="462c0819:PsiDirectoryNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="telenorapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="se" type="462c0819:PsiDirectoryNode" />
+              <item name="terhol" type="462c0819:PsiDirectoryNode" />
+              <item name="telenorapi" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -208,10 +341,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -624,12 +759,12 @@
       <module name="telenorapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.terhol.telenorapi.Controller.*" />
+          <option name="PATTERN" value="se.terhol.telenorapi.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.Controller" />
-      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.Controller.GreetingControllerTest" />
+      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.controller.GreetingControllerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -639,12 +774,12 @@
       <module name="telenorapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.terhol.telenorapi.Controller.*" />
+          <option name="PATTERN" value="se.terhol.telenorapi.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.Controller" />
-      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.Controller.GreetingControllerTest" />
+      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.controller.GreetingControllerTest" />
       <option name="METHOD_NAME" value="correctInvalidId" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -655,12 +790,12 @@
       <module name="telenorapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.terhol.telenorapi.Controller.*" />
+          <option name="PATTERN" value="se.terhol.telenorapi.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.Controller" />
-      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.Controller.GreetingControllerTest" />
+      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.controller.GreetingControllerTest" />
       <option name="METHOD_NAME" value="correctPersonalAccount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -671,12 +806,12 @@
       <module name="telenorapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.terhol.telenorapi.Controller.*" />
+          <option name="PATTERN" value="se.terhol.telenorapi.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.Controller" />
-      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.Controller.GreetingControllerTest" />
+      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.controller.GreetingControllerTest" />
       <option name="METHOD_NAME" value="invalidId" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -687,12 +822,12 @@
       <module name="telenorapi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.terhol.telenorapi.Controller.*" />
+          <option name="PATTERN" value="se.terhol.telenorapi.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.Controller" />
-      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.Controller.GreetingControllerTest" />
+      <option name="PACKAGE_NAME" value="se.terhol.telenorapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="se.terhol.telenorapi.controller.GreetingControllerTest" />
       <option name="METHOD_NAME" value="invalidOrMissingBusinessType" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -727,7 +862,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576052995477</updated>
       <workItem from="1576052997294" duration="2419000" />
-      <workItem from="1576224428516" duration="20448000" />
+      <workItem from="1576224428516" duration="20752000" />
     </task>
     <servers />
   </component>
@@ -764,7 +899,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22867000" />
+    <option name="totallyTimeSpent" value="23171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -781,13 +916,13 @@
       <window_info anchor="bottom" id="REST Client" weight="0.53754264" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993174" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32935154" />
       <window_info anchor="bottom" id="Docker" order="9" weight="0.32935154" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32935154" />
@@ -949,7 +1084,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/StringToAccountConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/StringToAccountConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -959,7 +1094,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/StringToBusinessTypeConverter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/StringToBusinessTypeConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
@@ -969,7 +1104,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Utils/WebConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/utils/WebConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
@@ -986,7 +1121,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/Controller/GreetingController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/se/terhol/telenorapi/controller/GreetingController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-669">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
@@ -1003,10 +1138,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/Controller/GreetingControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/se/terhol/telenorapi/controller/GreetingControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="255">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

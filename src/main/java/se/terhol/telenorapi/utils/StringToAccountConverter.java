@@ -1,4 +1,4 @@
-package se.terhol.telenorapi.Utils;
+package se.terhol.telenorapi.utils;
 
 import org.springframework.core.convert.converter.Converter;
 import se.terhol.telenorapi.model.Account;

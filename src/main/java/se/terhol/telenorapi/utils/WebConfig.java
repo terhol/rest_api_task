@@ -1,4 +1,4 @@
-package se.terhol.telenorapi.Utils;
+package se.terhol.telenorapi.utils;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.format.FormatterRegistry;
