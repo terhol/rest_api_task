@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: se.terhol.telenorapi.controller.GreetingControllerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.836 s - in se.terhol.telenorapi.controller.GreetingControllerTest

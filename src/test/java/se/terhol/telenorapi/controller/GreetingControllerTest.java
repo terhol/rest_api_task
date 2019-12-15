@@ -7,14 +7,17 @@ import org.apache.http.client.methods.HttpUriRequest;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.util.EntityUtils;
 import org.junit.jupiter.api.Test;
-
+import org.springframework.boot.test.context.SpringBootTest;
+import se.terhol.telenorapi.TelenorapiApplication;
 
 import java.io.IOException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+@SpringBootTest(classes = TelenorapiApplication.class, webEnvironment = SpringBootTest.WebEnvironment.DEFINED_PORT)
 class GreetingControllerTest {
     private String path = "http://localhost:5000/greeting";
+
 
     @Test
     void correctPersonalAccount() throws IOException {

@@ -12,4 +12,8 @@ public class Greeting {
         this.id = id;
         this.message = String.format("Hi, userID %d", id);
     }
+
+    public String getMessage() {
+        return message;
+    }
 }
